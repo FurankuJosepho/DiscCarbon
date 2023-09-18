@@ -75,7 +75,7 @@ function myAlert() {
 
 document.addEventListener("keydown", (e) => {
   switch (e.key) {
-    case "a":
+    case "a   ":
       audio1.play();
       audio2.pause();
       audio3.pause();
